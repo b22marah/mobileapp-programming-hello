@@ -10,11 +10,12 @@ jag den nya versionen / ändringarna för applikationen till min gitgub resposit
 
 
 Programkod:
-´´´
+
+```
 <resources>
     <string name="app_name">Greetings traveler!</string>
 </resources>
-´´´
+```
 
 Bilder:
 
